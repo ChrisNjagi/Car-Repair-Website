@@ -4,6 +4,7 @@ body{
     background-image: url("image/pexels-olly-3807799.jpg");
     background-size: cover;
 }
+
 header{
     position: fixed;
     top: 0;

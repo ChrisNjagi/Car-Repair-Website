@@ -76,15 +76,33 @@ nav ul li a{
     border-radius: 10px;
     color: white;
     background-color: rgb(108, 198, 159);
+    text-align: center;
 }
 .choose-head{
     text-align: center;
     color: chartreuse;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.choose-head1{
+    text-align: center;
+    color: chartreuse;
+    padding-bottom: 0px;
+    padding-top: 40px;
+}
+.choose-box img{
+    width: 400px;
+    height: 350px;
+    border-radius: 10px;
+}
+.butT{
+    color: white;
+    background-color: transparent;
+    border: 2px solid gray;
+    border-radius: 10px;
 }
 .about-content{
-    padding-left: 800px;
-    padding-top: 60px;
-    padding-right: 15px;
+    padding: 60px 15px;
     color: black;
     background-color: white;
 }
@@ -121,4 +139,30 @@ nav ul li a{
 .cont{
     font-size: 20px;
     color: white;
+}
+.cat{
+    display: flex;
+    align-items: flex-start;
+    padding: 0 30px;
+    gap: 30px;
+}
+.cat img{
+    width: 700px;
+    height: 650px;
+    flex-shrink: 0;
+    border-radius: 10px;
+}
+
+.service{
+    text-align: center;
+    color: chartreuse;
+    padding-top: 40px;
+    padding-bottom: 0px;
+}
+.services{
+    text-align: center;
+    color: chartreuse;
+    padding-bottom: 40px;
+    padding-top: 0px;
+    font-size: larger;
 }

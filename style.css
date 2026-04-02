@@ -166,7 +166,7 @@ nav ul li a{
     padding-top: 0px;
     font-size: larger;
 }
-.bat{
+/* .bat{
     text-align: center;
     width: 170px;
     margin-left: 45%;
@@ -190,9 +190,9 @@ nav ul li a{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 0;
-}
-.eng{
+    padding-top: 0; */
+/* } */
+/* .eng{
     text-align: center;
     width: 170px;
     margin-left: 300px;
@@ -286,4 +286,120 @@ nav ul li a{
     flex-shrink: 0;
     z-index: 100;
     width: 400px;
+} */
+.bre{
+    text-align: center;
+    width: 170px;
+    padding-left: 45%;
+    padding-bottom: 0px;
+}
+.bre h3{
+    color: red;
+    font-size: large;
+}
+.bre p{
+    color: black;
+    font-size: small;  
+}
+.bre button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+.together1{
+    padding: 20px;
+ }
+ .together1 .eng{
+    text-align: center;
+    width: 170px;
+    margin-left: 300px;
+ }
+ .together1 .eng h3{
+    color: red;
+    font-size: large;
+ }
+ .together1 .eng p{
+    color: black;
+    font-size: small;  
+ }
+ .together1 .eng button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+ }
+.together1 .bat{
+    text-align: center;
+    width: 170px;
+    margin-right: 35%;
+    padding-left: 15%;
+}
+.together1 .bat h3{
+    color: red;
+    font-size: large;
+ }
+.together1 .bat p{
+    color: black;
+    font-size: small;
+}
+.together1 .bat button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+.car{
+    align-items: center;
+    text-align: center;
+}
+.car img{
+    width: 200px;
+    height: auto;   
+    width: 400px;
+}
+
+.together{
+    padding: 20px;
+ }
+ .together .tir{
+    text-align: center;
+    width: 170px;
+    margin-left: 300px;
+ }
+ .together .tir h3{
+    color: red;
+    font-size: large;
+ }
+ .together .tir p{
+    color: black;
+    font-size: small;  
+ }
+ .together .tir button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+ }
+.together .ste{
+    text-align: center;
+    width: 170px;
+    margin-right: 35%;
+    padding-left: 15%;
+}
+.together .ste h3{
+    color: red;
+    font-size: large;
+ }
+.together .ste p{
+    color: black;
+    font-size: small;
+}
+.together .ste button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
 }

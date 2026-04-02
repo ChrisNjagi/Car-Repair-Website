@@ -166,3 +166,124 @@ nav ul li a{
     padding-top: 0px;
     font-size: larger;
 }
+.bat{
+    text-align: center;
+    width: 170px;
+    margin-left: 45%;
+    padding-bottom: 0px;
+}
+.bat h3{
+    color: red;
+    font-size: large;
+}
+.bat p{
+    color: black;
+    font-size: small;  
+}
+.bat button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.together1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 0;
+}
+.eng{
+    text-align: center;
+    width: 170px;
+    margin-left: 300px;
+}
+.eng h3{
+    color: red;
+    font-size: large;
+}
+.eng p{
+    color: black;
+    font-size: small;  
+}
+.eng button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.tir{
+    text-align: center;
+    width: 170px;
+    margin-right: 300px;
+}
+.tir h3{
+    color: red;
+    font-size: large;
+}
+.tir p{
+    color: black;
+    font-size: small;  
+}
+.tir button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.together{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+}
+.bre{
+    text-align: center;
+    width: 170px;
+    margin-left: 200px;
+}
+.bre h3{
+    color: red;
+    font-size: large;
+}
+.bre p{
+    color: black;
+    font-size: small;  
+}
+.bre button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.ste{
+    text-align: center;
+    width: 170px;
+    margin-right: 200px;
+}
+.ste h3{
+    color: red;
+    font-size: large;
+}
+.ste p{
+    color: black;
+    font-size: small;  
+}
+.ste button{
+    color: red;
+    border: none;
+    background-color: transparent;
+    border-radius: 5px;
+}
+.car{
+    align-items: center;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.car img{
+    width: 200px;
+    height: auto;
+    flex-shrink: 0;
+    z-index: 100;
+    width: 400px;
+}

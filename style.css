@@ -291,7 +291,7 @@ nav ul li a{
     text-align: center;
     width: 170px;
     padding-left: 45%;
-    padding-bottom: 0px;
+    padding-bottom: 40px;
 }
 .bre h3{
     color: red;
@@ -310,11 +310,16 @@ nav ul li a{
 
 .together1{
     padding: 20px;
+    padding-top: 0;
+    width: 400px;
+    padding-left: 5px;
  }
  .together1 .eng{
     text-align: center;
     width: 170px;
     margin-left: 300px;
+    margin-right: 15%;
+    padding-bottom: 20px;
  }
  .together1 .eng h3{
     color: red;
@@ -331,10 +336,11 @@ nav ul li a{
     border-radius: 5px;
  }
 .together1 .bat{
+    padding-top: 20px;
     text-align: center;
     width: 170px;
-    margin-right: 35%;
-    padding-left: 15%;
+    margin-left: 200px;
+    padding-right: 30%;
 }
 .together1 .bat h3{
     color: red;
@@ -356,18 +362,23 @@ nav ul li a{
     text-align: center;
 }
 .car img{
-    width: 200px;
+    padding-left: 15%;
     height: auto;   
     width: 400px;
 }
 
 .together{
     padding: 20px;
+    padding-top: 0;
+    width: 400px;
+    padding-left: 5px;
  }
  .together .tir{
+    padding-bottom: 20px;
     text-align: center;
     width: 170px;
-    margin-left: 300px;
+    margin-right: 300px;
+    margin-left: 15%;
  }
  .together .tir h3{
     color: red;
@@ -386,8 +397,9 @@ nav ul li a{
 .together .ste{
     text-align: center;
     width: 170px;
-    margin-right: 35%;
-    padding-left: 15%;
+    margin-right: 200px;
+    padding-left: 30%;
+    padding-top: 20px;
 }
 .together .ste h3{
     color: red;
@@ -402,4 +414,16 @@ nav ul li a{
     border: none;
     background-color: transparent;
     border-radius: 5px;
+}
+.gether{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 80px;
+    gap: 50px;
+}
+.pamoja{
+    text-align: center;
+    width: 400px;
+    padding-top: 0;
 }

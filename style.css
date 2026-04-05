@@ -330,6 +330,7 @@ nav ul li a{
     justify-content: space-between;
     align-items: center;
     padding: 20px;
+    padding-top: 150px;
 }
 .miss{
     margin-left: 30px;
@@ -340,7 +341,7 @@ nav ul li a{
 
 .miss img{
     width: 500px;
-    height: 450px;
+    height: 500px;
     border: none;
     padding-bottom: 0;
     border-radius: 10px;
@@ -351,3 +352,53 @@ nav ul li a{
     color: black;
 }
 
+.con{
+    background-color: red;
+    height: 450px;
+    width: 400px;
+
+}
+.con .get{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+.fom{
+  text-align: center;
+}
+
+input{
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 15px;
+}
+textarea{
+    width: 80%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 8px;
+}
+form button{
+    color: white;
+    background-color:rgb(24, 24, 62);
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+    width: 40%;
+}
+.features{
+    display:grid;
+    justify-content: space-between;
+    align-items: center; 
+    grid-template-columns: 2fr 2fr;
+    gap: 20px;
+}
+.feature{
+    margin-right: 15px;
+    margin-left: 15px;
+    background-color: transparent;
+}
+ 

@@ -157,12 +157,13 @@ nav ul li a{
 }
 
 .service{
-    text-align: center;
+   text-align: center;
     color: chartreuse;
     padding-top: 40px;
     padding-bottom: 0px;
 }
 .services{
+  
     text-align: center;
     color: chartreuse;
     padding-bottom: 40px;
@@ -321,5 +322,6 @@ nav ul li a{
     width: 170px;
     padding-top: 0;
 }
+
 
 

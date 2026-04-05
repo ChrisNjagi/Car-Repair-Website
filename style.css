@@ -401,4 +401,40 @@ form button{
     margin-left: 15px;
     background-color: transparent;
 }
- 
+.work{
+    text-align: center;
+}
+.work h4{
+    font-size: large;
+}
+.work h1{
+    font-size: x-large;
+}
+.three{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+.twe{
+    padding: 30px;
+    margin-right: 25px;
+    margin-left: 15px;
+}
+.twe img{
+    width: 400px;
+    height: 500px;
+    border: none;
+    z-index: 0;
+} 
+
+.tog{
+    text-align: center;
+    background-color: rgb(219, 19, 19);
+    border: none;
+    border-radius: 10px;
+    margin-top: -90px;
+    transform: translateX(-14%);
+    width: 80%;
+    background: white;
+    padding: 15px 15px;
+}

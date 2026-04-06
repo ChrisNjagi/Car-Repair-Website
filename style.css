@@ -460,6 +460,7 @@ form button{
 }
 .mec-in{
     text-align: left;
+    padding-top: 130px;
 }
 .mec-in h3{
     color: red;
@@ -474,5 +475,26 @@ form button{
     color: white;
     background-color: red;
     height: 40px;
+    width: 170px;
+}
+.mec-side{
+    align-items: center;
+    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    gap: 100px;
+}
+.wor{
+    margin-right: 15px;
+    margin-left: 15px;
+    padding: 20px;
+    background-color: aliceblue;
+}
+.wor img{
+    height: 150px;
     width: 150px;
+    border-radius: 75px;
+}
+.wor h4, .wor h3{
+    text-align: center;
 }

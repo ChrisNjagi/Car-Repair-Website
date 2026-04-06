@@ -442,3 +442,37 @@ form button{
 .Rwork{
     padding-top: 160px;
 }
+/* mechanics we have */
+.mech{
+    padding-top: 150px;
+}
+.mechanics{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.mec-content{
+    margin-left: 25px;
+    margin-right: 25px;
+    padding: 30px;
+    width: 600px;
+    height: 450px;
+}
+.mec-in{
+    text-align: left;
+}
+.mec-in h3{
+    color: red;
+    font-size: large;
+}
+.mec-in p{
+    font-size: 20px;
+    padding-top: 0;
+}
+.mec-in button{
+    border-radius: 20px;
+    color: white;
+    background-color: red;
+    height: 40px;
+    width: 150px;
+}
